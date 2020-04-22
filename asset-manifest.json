@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Hostel-Finder/static/css/main.0e286851.chunk.css",
+    "main.css": "/Hostel-Finder/static/css/main.e3aa2f27.chunk.css",
     "main.js": "/Hostel-Finder/static/js/main.8de3b42f.chunk.js",
     "main.js.map": "/Hostel-Finder/static/js/main.8de3b42f.chunk.js.map",
     "runtime-main.js": "/Hostel-Finder/static/js/runtime-main.265aa42b.js",
@@ -9,17 +9,17 @@
     "static/js/2.842efe6d.chunk.js": "/Hostel-Finder/static/js/2.842efe6d.chunk.js",
     "static/js/2.842efe6d.chunk.js.map": "/Hostel-Finder/static/js/2.842efe6d.chunk.js.map",
     "index.html": "/Hostel-Finder/index.html",
-    "precache-manifest.e027a34c66cf77fa9f02404d1ffbbd0d.js": "/Hostel-Finder/precache-manifest.e027a34c66cf77fa9f02404d1ffbbd0d.js",
+    "precache-manifest.b5a8ec09ea5dd20d62f06b64fd574590.js": "/Hostel-Finder/precache-manifest.b5a8ec09ea5dd20d62f06b64fd574590.js",
     "service-worker.js": "/Hostel-Finder/service-worker.js",
     "static/css/2.3b6f1bda.chunk.css.map": "/Hostel-Finder/static/css/2.3b6f1bda.chunk.css.map",
-    "static/css/main.0e286851.chunk.css.map": "/Hostel-Finder/static/css/main.0e286851.chunk.css.map",
+    "static/css/main.e3aa2f27.chunk.css.map": "/Hostel-Finder/static/css/main.e3aa2f27.chunk.css.map",
     "static/js/2.842efe6d.chunk.js.LICENSE.txt": "/Hostel-Finder/static/js/2.842efe6d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.265aa42b.js",
     "static/css/2.3b6f1bda.chunk.css",
     "static/js/2.842efe6d.chunk.js",
-    "static/css/main.0e286851.chunk.css",
+    "static/css/main.e3aa2f27.chunk.css",
     "static/js/main.8de3b42f.chunk.js"
   ]
 }

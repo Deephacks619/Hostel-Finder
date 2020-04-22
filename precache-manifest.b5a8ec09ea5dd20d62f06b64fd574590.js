@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5a70be0b0909d93b4db8bdb718127541",
+    "revision": "6ca334fe28715ad19d5202f56224447e",
     "url": "/Hostel-Finder/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Hostel-Finder/static/css/2.3b6f1bda.chunk.css"
   },
   {
-    "revision": "d12b94bce4684cc6adcc",
-    "url": "/Hostel-Finder/static/css/main.0e286851.chunk.css"
+    "revision": "2a8e10a9e129cf7dbb2f",
+    "url": "/Hostel-Finder/static/css/main.e3aa2f27.chunk.css"
   },
   {
     "revision": "3ae64ab898abe330ae8f",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Hostel-Finder/static/js/2.842efe6d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d12b94bce4684cc6adcc",
+    "revision": "2a8e10a9e129cf7dbb2f",
     "url": "/Hostel-Finder/static/js/main.8de3b42f.chunk.js"
   },
   {
