@@ -71,9 +71,8 @@
     margin: 10px;
   }
   .s3p{
-    font-size: 20px;
+    font-size: 10px;
     align-items: center;
-    display: flex;
     margin-top:20px;
   }
   
@@ -88,7 +87,7 @@
   .banner{
     background-color: thistle;
     width: 70%;
-    height: 200px;
+    height: auto;
     position: absolute;
     top:50%;
     left:18%;
@@ -173,6 +172,11 @@
     width: 400px;
     left: 37%;
   }
+@media only screen and (max-width:750px){
+.kfc{
+  left:5%;
+  }
+}
   .iconss{
     text-align: center;
     padding: 10px;
